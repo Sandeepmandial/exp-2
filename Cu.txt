@@ -1,6 +1,6 @@
 This is MCA
-<<<<<<< HEAD
+
 This is Cloud Computing
-=======
+
 this update to uic from aiml
->>>>>>> Aiml
+  Aiml
